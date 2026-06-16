@@ -6,3 +6,6 @@ venv/
 *.ipynb
 .chroma/
 .env.local
+.idea/
+vectorstore/
+app/vectorstore/
