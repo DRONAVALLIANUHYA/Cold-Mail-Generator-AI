@@ -35,6 +35,9 @@ An AI-powered Cold Email Generator that automatically creates personalized B2B c
 5. Company research is performed
 6. Personalized cold email is generated
 
+## Architecture
+
+![Architecture](screenshots/architecture.png)
 ## Screenshots
 
 ### Home Page
