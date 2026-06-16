@@ -37,7 +37,17 @@ An AI-powered Cold Email Generator that automatically creates personalized B2B c
 
 ## Screenshots
 
-(Add screenshots here after deployment)
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Company Research
+![Company Research](screenshots/company_research.png)
+
+### Job Summary
+![Job Summary](screenshots/job_summary.png)
+
+### Generated Cold Email
+![Generated Email](screenshots/generated_email.png)
 
 ## Installation
 
